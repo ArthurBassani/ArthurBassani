@@ -1,5 +1,4 @@
 - 👋 Olá, sou o @ArthurBassani
-- 🌱 Estou aprendendo sobre muitas coisas no momento
 - 📫 Contato: arthursilvabassani@gmail.com
 
 <!---
